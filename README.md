@@ -226,3 +226,6 @@ Fruit Ninja is offered as a full free version with all features and updates incl
 ---
 
 Download Fruit Ninja today and unleash your inner ninja warrior!
+
+---
+**Last updated:** 2026-09-16 18:37:50 UTC
